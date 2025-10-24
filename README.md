@@ -2,6 +2,8 @@
 
 A modern, elegant restaurant website featuring an AI-powered booking assistant built with Next.js, TypeScript, Tailwind CSS, and Anthropic's Claude AI.
 
+🌐 **Live Site:** [bella-vista.xyz](https://bella-vista.xyz)
+
 ## Features
 
 - **Stunning Hero Section** - Full-screen hero with beautiful food imagery from Unsplash
@@ -83,6 +85,12 @@ A modern, elegant restaurant website featuring an AI-powered booking assistant b
 4. **Deploy**
    - Vercel will automatically build and deploy your site
    - Your site will be live at `your-project.vercel.app`
+
+5. **Add Custom Domain (Optional)**
+   - In Vercel project settings, go to "Domains"
+   - Add your custom domain: `bella-vista.xyz`
+   - Follow Vercel's instructions to configure DNS records in Namecheap
+   - Vercel will automatically provision SSL certificate
 
 ### Other Deployment Options
 
